@@ -1,47 +1,29 @@
-# Lume Studio - Next.js Template
+# Sanju's 22nd Birthday
 
-This project is a Next.js template built with TypeScript, designed for creating stunning websites with smooth animations and modern UI components.
+A cinematic birthday website made for Sanjana Reddy P, also known as Sanju, for
+her 22nd birthday on 9 June 2026.
 
-## Getting Started
+## Experience
 
-1.  **Install dependencies:**
+- Smooth camera-lens preloader with aperture motion and a soft hero reveal.
+- Photo-led hero written from Nikki's perspective for Sanju.
+- Scroll-based 22-slide milestone section.
+- Tight clipped gallery preview with Sanju-only placeholders.
+- Animal-kindness section about what Nikki sees in Sanju's heart.
+- Draggable Polaroid-style wishes deck.
+- Late-page love note overlay from Nikki to Sanju.
 
-    ```bash
-    pnpm install
-    ```
+## Local Development
 
-2.  **Run the development server:**
+```bash
+npm install
+npm run dev
+```
 
-    ```bash
-    pnpm dev
-    ```
+Open `http://127.0.0.1:3000`.
 
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Personal Assets
 
-## Deployment
-
-### Cloudflare Pages
-
-If you intend to deploy this project using Cloudflare Pages, please use the `cf-pages` branch. This branch contains configurations optimized for Cloudflare Pages deployment.
-
-## Key Components
-
-### ScrollView Component [`src/components/scroll-view.tsx`](src/components/scroll-view.tsx)
-
-The `ScrollView` component is a utility component that triggers animations when an element becomes visible in the viewport. It's designed to enhance user experience by adding engaging visual effects as users scroll through the page.
-
-## Technologies Used
-
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [pnpm](https://pnpm.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Motion.dev](https://motion.dev/)
-
-## License
-
-MIT
-
-## Full version
-
-For the full version, go to https://lume.kohi.studio/full-version
+The current build uses Sanju-only visual placeholders so no generic brand
+content appears. Real photos can be added later by replacing the visual
+placeholder blocks in `src/app/page.tsx` with local images under `public/sanju`.

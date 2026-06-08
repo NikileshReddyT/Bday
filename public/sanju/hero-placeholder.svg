@@ -1,0 +1,49 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#FFF7ED"/>
+  <rect width="1200" height="1500" fill="url(#base)"/>
+  <circle cx="462" cy="302" r="232" fill="url(#roseGlow)" opacity="0.72"/>
+  <circle cx="882" cy="932" r="300" fill="url(#emeraldGlow)" opacity="0.54"/>
+  <circle cx="600" cy="610" r="155" fill="url(#portraitHead)" opacity="0.88"/>
+  <path d="M307 1162C338 935 445 805 604 805C763 805 873 935 906 1162C818 1218 715 1248 601 1248C487 1248 386 1218 307 1162Z" fill="url(#portraitBody)" opacity="0.86"/>
+  <path d="M168 183H1032V1316H168V183Z" stroke="white" stroke-width="4" opacity="0.5"/>
+  <path d="M210 222H990V1278H210V222Z" stroke="#7F1D1D" stroke-width="2" opacity="0.12"/>
+  <g opacity="0.45">
+    <path d="M916 332C936 298 974 287 1001 307C1028 328 1025 368 994 390C963 412 930 389 916 332Z" fill="#F9A8D4"/>
+    <path d="M214 1040C251 1012 296 1017 317 1054C339 1091 311 1136 260 1139C209 1142 184 1096 214 1040Z" fill="#6EE7B7"/>
+    <path d="M884 1162C921 1134 966 1139 987 1176C1009 1213 981 1258 930 1261C879 1264 854 1218 884 1162Z" fill="#FDBA74"/>
+  </g>
+  <g opacity="0.28">
+    <circle cx="246" cy="368" r="7" fill="#064E3B"/>
+    <circle cx="1002" cy="716" r="8" fill="#7F1D1D"/>
+    <circle cx="178" cy="802" r="5" fill="#BE185D"/>
+    <circle cx="1026" cy="1032" r="6" fill="#047857"/>
+  </g>
+  <path d="M352 1345H848" stroke="#BE185D" stroke-width="3" stroke-linecap="round" opacity="0.22"/>
+  <path d="M430 1388H770" stroke="#047857" stroke-width="3" stroke-linecap="round" opacity="0.22"/>
+  <defs>
+    <linearGradient id="base" x1="102" y1="89" x2="1065" y2="1398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1F2"/>
+      <stop offset="0.48" stop-color="#FFE4E6"/>
+      <stop offset="1" stop-color="#D1FAE5"/>
+    </linearGradient>
+    <radialGradient id="roseGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(462 302) rotate(90) scale(232)">
+      <stop stop-color="white"/>
+      <stop offset="0.45" stop-color="#FBCFE8"/>
+      <stop offset="1" stop-color="#FBCFE8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="emeraldGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(882 932) rotate(90) scale(300)">
+      <stop stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="portraitHead" x1="470" y1="468" x2="726" y2="748" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F1D1D"/>
+      <stop offset="0.5" stop-color="#BE185D"/>
+      <stop offset="1" stop-color="#064E3B"/>
+    </linearGradient>
+    <linearGradient id="portraitBody" x1="346" y1="840" x2="858" y2="1243" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9F1239"/>
+      <stop offset="0.52" stop-color="#F9A8D4"/>
+      <stop offset="1" stop-color="#6EE7B7"/>
+    </linearGradient>
+  </defs>
+</svg>

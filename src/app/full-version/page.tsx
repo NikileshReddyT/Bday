@@ -1,9 +1,5 @@
-import FullVersionSection from "@/components/sections/home/full-version-section";
+import { redirect } from "next/navigation";
 
-export default function Home() {
-  return (
-    <main className="min-h-screen">
-      <FullVersionSection />
-    </main>
-  );
+export default function FullVersionPage() {
+  redirect("/");
 }

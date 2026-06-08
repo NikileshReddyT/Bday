@@ -1,0 +1,30 @@
+ ⨯ [Error: ENOENT: no such file or directory, open 'D:\PROJECTS\Sanju-Bday\lume-studio-next\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PROJECTS\\Sanju-Bday\\lume-studio-next\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'D:\PROJECTS\Sanju-Bday\lume-studio-next\.next\static\development\_buildManifest.js.tmp.f8987m6v67'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PROJECTS\\Sanju-Bday\\lume-studio-next\\.next\\static\\development\\_buildManifest.js.tmp.f8987m6v67'
+}
+[Error: ENOENT: no such file or directory, open 'D:\PROJECTS\Sanju-Bday\lume-studio-next\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PROJECTS\\Sanju-Bday\\lume-studio-next\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'D:\PROJECTS\Sanju-Bday\lume-studio-next\.next\static\development\_buildManifest.js.tmp.dd1437rtjdi'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PROJECTS\\Sanju-Bday\\lume-studio-next\\.next\\static\\development\\_buildManifest.js.tmp.dd1437rtjdi'
+}
+[Error: ENOENT: no such file or directory, open 'D:\PROJECTS\Sanju-Bday\lume-studio-next\.next\static\development\_buildManifest.js.tmp.luokblnxhd'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PROJECTS\\Sanju-Bday\\lume-studio-next\\.next\\static\\development\\_buildManifest.js.tmp.luokblnxhd'
+}
