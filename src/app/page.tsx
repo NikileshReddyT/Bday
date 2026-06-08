@@ -1855,7 +1855,7 @@ function AnimalKindnessSection({ theme }: { theme: Theme }) {
             >
               <div className='absolute inset-x-8 top-2 h-px bg-gradient-to-r from-transparent via-rose-300/60 to-transparent' />
               <SanjuFrame
-                photo='/sanju/Sanju-4-dogs.png'
+                photo='/sanju/sanju-4-dogs.png'
                 label={t("Sanju with the little lives you love")}
                 className='aspect-[4/5] rounded-[8px]'
                 style={{ clipPath: "polygon(0 2%, 100% 0, 98% 98%, 3% 100%)" }}
@@ -1916,7 +1916,7 @@ function AnimalKindnessSection({ theme }: { theme: Theme }) {
               <div className='absolute -inset-6 rounded-[20px] bg-[radial-gradient(circle_at_50%_15%,rgba(251,207,232,0.34),transparent_38%),radial-gradient(circle_at_72%_88%,rgba(110,231,183,0.26),transparent_42%)] blur-2xl' />
               <div className='relative rounded-[8px] bg-[#fffaf3] p-2.5 sm:p-3'>
                 <SanjuFrame
-                  photo='/sanju/Sanju-4-dogs.png'
+                  photo='/sanju/sanju-4-dogs.png'
                   label={t("Sanju with the little lives you love")}
                   className='aspect-[4/5] rounded-[8px]'
                   style={{
